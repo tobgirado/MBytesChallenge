@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderWatchInstaller": {
+      "commandName": "Project",
+      "commandLineArgs": "-install"
+    }
+  }
+}
